@@ -1,0 +1,3 @@
+hours=100
+minutes=hours*600
+print(minutes)
